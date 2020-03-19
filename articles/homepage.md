@@ -9,7 +9,7 @@
     data-type="teaser"
     data-id="2020-03-17-prognoza-epidemii"
     data-title="Archiwum: Prognoza epidemii w Polsce dla danych z dnia 17 marca"
-    data-date="W przygotowaniu"
+    data-date="Data opracowania: wtorek, 17 marca 2020, godz. 23:45"
 ></div>
 
 <div
