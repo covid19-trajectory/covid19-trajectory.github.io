@@ -48,7 +48,7 @@ Wartości tych parametrów można jeszcze precyzyjniej wyliczyć, stosując meto
 
 ## Jak interpretować wartości parametrów?
 
-- `A=-3` spośród osób, które przybyły do Polski na początku marca, trzy osoby mogły być tutaj jedynie przejezdnie, ale zdążyły nieświadomie zainfekować innych. Gdyby poddać podobnej analizie rozwój epidemii w innych krajach, uwzględniając daty i rzetelność państw we wczesnym wykonywaniu testów, moglibyśmy ustalić migracje "pacjentów zero" poszczególnych.
+- `A=-3` spośród osób, które przybyły do Polski na początku marca, trzy osoby mogły być tutaj jedynie przejezdnie, ale zdążyły nieświadomie zainfekować innych. Gdyby poddać podobnej analizie rozwój epidemii w innych krajach, uwzględniając daty i rzetelność państw we wczesnym wykonywaniu testów, moglibyśmy ustalić migracje "pacjentów zero" pomiędzy poszczególnymi państwami.
 - `S=-4` rzeczywisty początek epidemii w Polsce to nie 4 marca, gdy ogłoszono pierwszy przypadek zarażonej osoby, ale 4 dni wcześniej, czyli 29 lutego. Wyliczenie precyzyjnych wartości parametrów metodami numerycznymi mogłoby określić ten moment co do godziny.
 - `P=2.3` podwojenie się liczby zarażonych odbywa się w stałym tempie co 2 dni, 7 godzin i 12 minut.
 
