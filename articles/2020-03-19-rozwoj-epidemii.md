@@ -33,4 +33,4 @@ Należy wziąć pod uwagę, że z powodu [inercji podejmowanych środków zapobi
 - zamknięcie szkół (otwarte tylko dla chętnych)
 - apel o przechodzenie biur w tryb pracy zdalnej
 
-Z drugiej strony, mamy obecnie napływ osób powracających do Polski i poddawanych kwarantannie.
+Z drugiej strony, mieliśmy wówczas napływ osób powracających do Polski bez poddawania kwarantannie.
